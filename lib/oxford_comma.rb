@@ -1,5 +1,5 @@
-array = ["a", "b", "c", "d", "e", "f", "g",]
-#array = ["1", "2", "3", "4", "5", "6", "7",]
+#array = ["a", "b", "c", "d", "e", "f", "g",]
+array = ["1", "2", "3", "4", "5", "6", "7",]
 
 def oxford_comma(array)
   if array.length <= 1
